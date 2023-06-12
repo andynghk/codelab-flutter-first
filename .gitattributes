@@ -6,7 +6,9 @@ macos/* linguist-vendored
 test/* linguist-vendored
 web/* linguist-vendored
 windows/* linguist-vendored
+.fvm/* linguist-vendored
 
 *.cc linguist-detectable=false
 *.cpp linguist-detectable=false
 *.cmake linguist-detectable=false
+*.txt linguist-detectable=false
